@@ -42,11 +42,12 @@ Maintained by the team at [VeloApply](https://veloapply.com). Contributions are 
 
 ## Interview Preparation
 
+- [Big Interview](https://biginterview.com) - AI graded mock interview practice across a wide range of roles.
 - [Google Interview Warmup](https://grow.google/certificates/interview-warmup) - Free tool from Google for quick interview practice with instant feedback.
+- [Interviewing.io](https://interviewing.io) - Live, anonymous mock interviews with real engineers for technical roles.
+- [OneWayPrep](https://onewayprep.app/) - Private one-way video interview practice with timed preparation, local recording, and free transcript-based feedback.
 - [Pramp](https://www.pramp.com) - Free peer to peer mock interview practice, now part of Exponent.
 - [Yoodli](https://www.yoodli.ai) - AI feedback on speaking delivery, pacing, and communication clarity.
-- [Big Interview](https://biginterview.com) - AI graded mock interview practice across a wide range of roles.
-- [Interviewing.io](https://interviewing.io) - Live, anonymous mock interviews with real engineers for technical roles.
 
 ## LinkedIn Optimization
 
