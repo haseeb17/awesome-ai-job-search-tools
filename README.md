@@ -19,12 +19,13 @@ Maintained by the team at [VeloApply](https://veloapply.com). Contributions are 
 
 ## Resume Builders
 
-- [Rezi](https://www.rezi.ai) - AI resume builder with a real time ATS score that updates as you edit.
-- [Teal](https://www.tealhq.com) - Resume builder combined with a job tracker and browser extension.
 - [Kickresume](https://www.kickresume.com) - AI resume and cover letter builder with a large template library.
 - [Novoresume](https://novoresume.com) - Structured resume builder with section by section AI writing help.
-- [Zety](https://zety.com) - Template focused resume builder with a wide range of designs.
 - [Reactive Resume](https://rxresu.me) - Free, open source resume builder you can self host.
+- [ResumePlot](https://resumeplot.com/) - Browser-based resume editor with AI-assisted rewriting, job tailoring, and PDF export; AI requires sign-in and available edits.
+- [Rezi](https://www.rezi.ai) - AI resume builder with a real time ATS score that updates as you edit.
+- [Teal](https://www.tealhq.com) - Resume builder combined with a job tracker and browser extension.
+- [Zety](https://zety.com) - Template focused resume builder with a wide range of designs.
 
 ## ATS Optimization and Resume Scanners
 
