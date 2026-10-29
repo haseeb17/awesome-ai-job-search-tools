@@ -34,6 +34,7 @@ Maintained by the team at [VeloApply](https://veloapply.com). Contributions are 
 
 ## Job Application Autofill and Tracking
 
+- [NeverApply](https://neverapply.co) - AI job-search agent that matches jobs, tailors resumes, and applies with your approval.
 - [Simplify](https://simplify.jobs) - Free Chrome extension for autofilling job applications and tracking submissions.
 - [Huntr](https://huntr.co) - Kanban style job tracker with unlimited free autofill.
 - [Careerflow](https://www.careerflow.ai) - Job tracker with a free LinkedIn profile optimizer built in.
