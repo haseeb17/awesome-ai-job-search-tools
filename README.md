@@ -28,6 +28,7 @@ Maintained by the team at [VeloApply](https://veloapply.com). Contributions are 
 
 ## ATS Optimization and Resume Scanners
 
+- [CheckATS](https://checkats.app/) - Checks a resume against a job description and flags missing keywords and formatting issues.
 - [Jobscan](https://www.jobscan.co) - Scores a resume against a job description and flags keyword gaps.
 - [Resume Optimizer Pro](https://resumeoptimizerpro.com) - Chrome extension that checks ATS parsing and keyword coverage.
 - [VeloApply](https://veloapply.com) - ATS compatibility scoring and resume optimization built into the same workspace as its autofill extension.
