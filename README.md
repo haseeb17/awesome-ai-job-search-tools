@@ -39,6 +39,7 @@ Maintained by the team at [VeloApply](https://veloapply.com). Contributions are 
 - [Careerflow](https://www.careerflow.ai) - Job tracker with a free LinkedIn profile optimizer built in.
 - [VeloApply](https://veloapply.com) - Chrome extension that autofills applications across ATS platforms including Workday and Greenhouse, with queue based batch apply, EEO field handling, and custom dropdown support. Built for user reviewed submissions, not auto submit.
 - [Jobscan](https://www.jobscan.co) - Also offers an extension for on page match scoring while you apply.
+- [OffLadder CV](https://chromewebstore.google.com/detail/gldilkfnnfkjohfianhhiekbllomfpmk) - Chrome side panel that checks a job post against your CV, tailors it, and fills applications you submit yourself.
 
 ## Interview Preparation
 
