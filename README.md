@@ -60,6 +60,7 @@ Maintained by the team at [VeloApply](https://veloapply.com). Contributions are 
 - [Indeed](https://www.indeed.com) - One of the largest general job search aggregators.
 - [Glassdoor](https://www.glassdoor.com) - Job listings paired with company reviews and salary reports.
 - [Adzuna](https://www.adzuna.com) - Job search aggregator with a public API used by developers to build search tools.
+- [EuroJobs.ai](https://eurojobs.ai) - Aggregates 28,000+ IT jobs across Europe from 21,000 employer career pages (Greenhouse, Lever, Ashby, Workable and others), rechecked hourly. Includes free AI CV and cover letter tailoring for every listed job.
 
 ## Salary and Compensation Research
 
