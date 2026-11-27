@@ -60,6 +60,7 @@ Maintained by the team at [VeloApply](https://veloapply.com). Contributions are 
 - [Indeed](https://www.indeed.com) - One of the largest general job search aggregators.
 - [Glassdoor](https://www.glassdoor.com) - Job listings paired with company reviews and salary reports.
 - [Adzuna](https://www.adzuna.com) - Job search aggregator with a public API used by developers to build search tools.
+- [Elk Jobs](https://elkjobs.com) - US jobs pulled daily from employer career pages, with resume fit scores and tailoring.
 
 ## Salary and Compensation Research
 
